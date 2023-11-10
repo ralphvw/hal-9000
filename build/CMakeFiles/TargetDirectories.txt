@@ -1,0 +1,3 @@
+/home/ralph/hal-9000/build/CMakeFiles/hydro.dir
+/home/ralph/hal-9000/build/CMakeFiles/edit_cache.dir
+/home/ralph/hal-9000/build/CMakeFiles/rebuild_cache.dir
